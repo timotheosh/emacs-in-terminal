@@ -9,3 +9,9 @@
 
 # Undo-tree save-files
 *.~undo-tree
+
+# Generated org-files
+config.el
+# straight
+straight
+
